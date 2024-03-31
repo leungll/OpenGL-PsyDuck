@@ -1,5 +1,5 @@
 # OpenGLProject_PsyDuck
-PsyDuck for Software Development Based on Graphics Engine, Spring 2020,  NENU
+**PsyDuck**, Software Development Based on Graphics Engine course, 2020 Spring, NENU 
 
 ![maven](https://img.shields.io/badge/C-passing-red)
 ![maven](https://img.shields.io/badge/MinGW-compile-green)
